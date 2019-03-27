@@ -1,0 +1,1 @@
+<a href="{{ URL::previous() }}" class="btn btn-sm btn-danger"><span class="glyphicon glyphicon-arrow-left"></span> Cancel</a>

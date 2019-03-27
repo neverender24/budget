@@ -1,0 +1,99 @@
+body{
+    margin-top: 10px;
+    /*background: url('../assets/bg-pattern1.png') repeat;*/
+}
+
+.table{
+    font-size: 13px;
+}
+
+.delete-action {display:inline;}
+
+.hiddenRow {
+    padding: 0 !important;
+}
+
+table th {
+    text-align: center;
+    background-color: #888888;
+    color: white;
+}
+
+
+
+/*footer*/
+.footer {
+    text-align: center;
+    padding: 20px;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-color: #f5f5f5;
+}
+
+.panel-cus .panel-heading{
+    padding: 5px 5px 0px 5px;
+}
+.panel-cus .panel-body{
+    padding: 5px 5px 0px 5px;
+    margin: 0px;
+    padding-bottom: 0px;
+}
+.panel-cus .label-cus{
+    margin: 0px;
+    padding-bottom: 0px;
+}
+
+/* this is for alligining livicon and tab title in same lineheight */
+.page-sidebar-menu .livicon {
+    float: left;
+    margin-top: -2px;
+    margin-right: 10px;
+}
+
+.list1 {
+    border-bottom: 1px solid #ccc;
+    display: inline-block;
+    width: 100%;
+    padding: 2px 5px 1px 3px !important;
+    background: #fff;
+    float: left;
+}
+
+.todoitemjs {
+    padding-top: 3px;
+}
+
+.text-col {
+    color: #fff !important;
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #1bc398;
+    border-color: #1bc398;
+}
+
+.btn-default:hover {
+    color: #fff;
+    background-color: #A9B6B1 !important;
+    border-color: #A9B6B1 !important;
+
+}
+
+.text-primary {
+    color: #428BCA;
+}
+
+.text-success {
+    color: #01BC8C;
+}
+
+.text-warning {
+    color: #F89A14;
+}
+
+.text-danger {
+    color: #f56954;
+}

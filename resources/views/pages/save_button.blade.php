@@ -1,0 +1,1 @@
+{!! Form::button('<span class="glyphicon glyphicon-save"></span> '.$submit,['type'=>'submit','class'=>'btn btn-primary btn-sm']) !!}
